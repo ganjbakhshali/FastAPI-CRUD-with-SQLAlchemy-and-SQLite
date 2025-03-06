@@ -1,2 +1,2 @@
-# Assignment6_API
-sql_sqlalchemy
+# FastAPI CRUD with SQLAlchemy and SQLite
+by two impelmentation.
